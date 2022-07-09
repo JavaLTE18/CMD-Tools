@@ -14,4 +14,8 @@ The tools can supported Windows :
 Other Modded Windows Will Be Supported
 
 # Edit Files
-- Allowed to Edits Files Because Of The Licence [GNU LICENSE VERSION 2.0]
+- Allowed to Edits Files Because Of The Licence [GPL 2.0 Licence]
+
+- NOT Allowed To Edit DIRECTLY either GitHub Web Or GitHub Application.
+
+
