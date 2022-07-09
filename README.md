@@ -14,8 +14,4 @@ The tools can supported Windows :
 Other Modded Windows Will Be Supported
 
 # Edit Files
-- You Can Edit All The Files But Need to Email Me First For The Confirmation.
-
-- The Files Will Non-Licenable If you emailed me and i confirmed.
-
-- Email : javalte172@gmail.com
+- Allowed to Edits Files Because Of The Licence [GNU LICENSE VERSION 2.0]
